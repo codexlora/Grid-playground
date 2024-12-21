@@ -1,0 +1,12 @@
+.container{
+    background: pink;
+    border: 1px solid;
+    display: grid;
+    grid-template-columns: 75% 25%;
+}
+
+.container div{
+    border: 1px solid;
+    background-color: aqua;
+    border-radius:5px;
+}
